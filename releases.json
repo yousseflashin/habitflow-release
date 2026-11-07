@@ -1,0 +1,64 @@
+{
+  "appName": "Aureus — Whole-Life Manager",
+  "releases": [
+    {
+      "version": "1.1.0",
+      "date": "2026-11-07",
+      "highlight": "Executive Wallet with Income & Expense Cashflow across Monthly, Quarterly, and Yearly timeframes.",
+      "notes": [
+        "Executive Wallet with Income & Expense Cashflow across Monthly, Quarterly, and Yearly timeframes.",
+        "Google Calendar style multi-view master calendar (Month, Week, Day, Schedule).",
+        "Local-first CRDT synchronization and cross-platform notification engine."
+      ],
+      "downloads": [
+        {
+          "platform": "android",
+          "fileName": "aureus-v1.1.0-android.apk",
+          "downloadUrl": "https://github.com/yousseflashin/habitflow-release/releases/download/v1.1.0/aureus-v1.1.0-android.apk",
+          "fileSize": "4.6 MB",
+          "sha256": "dccc05db1d48fe006a02653845e0bbcd6392887a840cbbd30afa58f6b186752d",
+          "installHint": "Requires Android 7.0 (API 24)+. Allow 'Install unknown apps' when prompted."
+        },
+        {
+          "platform": "linux",
+          "fileName": "aureus-v1.1.0-linux-x64.zip",
+          "downloadUrl": "https://github.com/yousseflashin/habitflow-release/releases/download/v1.1.0/aureus-v1.1.0-linux-x64.zip",
+          "fileSize": "903.1 KB",
+          "sha256": "b6bcc226a33035bdc4a2eb33066518d9fdd5d29d4bac034e6e61e5b5c8fb26e4",
+          "installHint": "Extract the zip, then run ./install.sh (fetches Electron if needed), then ./habitflow.sh."
+        }
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "date": "2026-10-02",
+      "highlight": "First public build: Body / Mind / Spirit life progress, whole-life radar, and local-first sync.",
+      "notes": [
+        "Whole-Life model: every activity declares how it affects Body, Mind and Spirit",
+        "GitHub-style contribution calendar with 5 intensity levels, not a binary done/undone",
+        "Variable targets per activity (reps, minutes, glasses, km, %, custom units)",
+        "Unlimited same-day reminders with days-of-week, start/end dates and snooze",
+        "Body / Mind / Spirit visualisations: muscle map, brain, and spirit aura",
+        "Life attribute radar derived from accumulated activity, with diminishing returns",
+        "Bad-habit quitting kept first-class: relapse is logged, never erases history",
+        "Local-first storage (IndexedDB) with sync to your own MonsterASP SQL Server"
+      ],
+      "downloads": [
+        {
+          "platform": "android",
+          "fileName": "aureus-v1.0.0.apk",
+          "downloadUrl": "./downloads/aureus-v1.0.0.apk",
+          "fileSize": "4.6 MB",
+          "installHint": "Requires Android 7.0 (API 24)+. Allow 'Install unknown apps' when prompted."
+        },
+        {
+          "platform": "windows",
+          "fileName": "aureus-v1.0.0-win-x64.zip",
+          "downloadUrl": "./downloads/aureus-v1.0.0-win-x64.zip",
+          "fileSize": "—",
+          "installHint": "Extract the zip and run the bundled .exe. SmartScreen: More info > Run anyway."
+        }
+      ]
+    }
+  ]
+}
