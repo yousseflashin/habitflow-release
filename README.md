@@ -2,9 +2,8 @@
 
 Official public releases, cross-platform packages, and release metadata for **Aureus**.
 
-[![Latest Release](https://img.shields.io/badge/Release-v1.1.0-gold.svg?style=for-the-badge&logo=github)](https://github.com/yousseflashin/habitflow-release/releases)
-[![Android](https://img.shields.io/badge/Platform-Android%207%2B-brightgreen.svg?style=for-the-badge&logo=android)](https://github.com/yousseflashin/habitflow-release/releases/download/v1.1.0/aureus-v1.1.0-android.apk)
-[![Linux](https://img.shields.io/badge/Platform-Linux%20x64-blue.svg?style=for-the-badge&logo=linux)](https://github.com/yousseflashin/habitflow-release/releases/download/v1.1.0/aureus-v1.1.0-linux-x64.zip)
+[![Android Download](https://img.shields.io/badge/Download-Android%20APK-brightgreen.svg?style=for-the-badge&logo=android)](https://raw.githubusercontent.com/yousseflashin/habitflow-release/main/downloads/aureus-v1.1.0-android.apk)
+[![Linux Download](https://img.shields.io/badge/Download-Linux%20x64-blue.svg?style=for-the-badge&logo=linux)](https://raw.githubusercontent.com/yousseflashin/habitflow-release/main/downloads/aureus-v1.1.0-linux-x64.zip)
 
 ---
 
@@ -12,15 +11,15 @@ Official public releases, cross-platform packages, and release metadata for **Au
 
 ### Download Packages
 
-| Platform | Package File | Size | SHA-256 Checksum | GitHub Release CDN | Instant Raw Mirror |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **ANDROID** | `aureus-v1.1.0-android.apk` | 4.6 MB | `dccc05db1d48fe00…` | [Download](https://github.com/yousseflashin/habitflow-release/releases/download/v1.1.0/aureus-v1.1.0-android.apk) | [Direct Raw Mirror](https://github.com/yousseflashin/habitflow-release/raw/main/downloads/aureus-v1.1.0-android.apk) |
-| **LINUX** | `aureus-v1.1.0-linux-x64.zip` | 2.1 MB | `4ddae97c1b1f1220…` | [Download](https://github.com/yousseflashin/habitflow-release/releases/download/v1.1.0/aureus-v1.1.0-linux-x64.zip) | [Direct Raw Mirror](https://github.com/yousseflashin/habitflow-release/raw/main/downloads/aureus-v1.1.0-linux-x64.zip) |
+| Platform | Package File | Size | SHA-256 Checksum | Direct Download |
+| :--- | :--- | :--- | :--- | :--- |
+| **ANDROID** | `aureus-v1.1.0-android.apk` | 4.6 MB | `dccc05db1d48fe00…` | [Download aureus-v1.1.0-android.apk](https://raw.githubusercontent.com/yousseflashin/habitflow-release/main/downloads/aureus-v1.1.0-android.apk) |
+| **LINUX** | `aureus-v1.1.0-linux-x64.zip` | 2.1 MB | `8f14e60530274b5b…` | [Download aureus-v1.1.0-linux-x64.zip](https://raw.githubusercontent.com/yousseflashin/habitflow-release/main/downloads/aureus-v1.1.0-linux-x64.zip) |
 
 ---
 
 ## 📱 Android Installation Guide
-1. Download [**aureus-v1.1.0-android.apk**](https://github.com/yousseflashin/habitflow-release/releases/download/v1.1.0/aureus-v1.1.0-android.apk) (or use the [Direct Raw Mirror](https://github.com/yousseflashin/habitflow-release/raw/main/downloads/aureus-v1.1.0-android.apk)).
+1. Download [**aureus-v1.1.0-android.apk**](https://raw.githubusercontent.com/yousseflashin/habitflow-release/main/downloads/aureus-v1.1.0-android.apk).
 2. Open the downloaded file on your Android device.
 3. If prompted with *"For your security, your phone is not allowed to install unknown apps from this source"*, tap **Settings** and enable **"Allow from this source"**.
 4. Tap **Install** and launch Aureus.
@@ -28,7 +27,7 @@ Official public releases, cross-platform packages, and release metadata for **Au
 ---
 
 ## 💻 Linux Desktop Installation Guide (Fedora, Ubuntu, Debian, Arch)
-1. Download [**aureus-v1.1.0-linux-x64.zip**](https://github.com/yousseflashin/habitflow-release/releases/download/v1.1.0/aureus-v1.1.0-linux-x64.zip) (or use the [Direct Raw Mirror](https://github.com/yousseflashin/habitflow-release/raw/main/downloads/aureus-v1.1.0-linux-x64.zip)).
+1. Download [**aureus-v1.1.0-linux-x64.zip**](https://raw.githubusercontent.com/yousseflashin/habitflow-release/main/downloads/aureus-v1.1.0-linux-x64.zip).
 2. Extract the archive:
    ```bash
    unzip aureus-v1.1.0-linux-x64.zip -d aureus-v1.1.0
