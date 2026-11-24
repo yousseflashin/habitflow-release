@@ -3,7 +3,7 @@
   "releases": [
     {
       "version": "1.1.0",
-      "date": "2026-11-07",
+      "date": "2026-11-24",
       "highlight": "Executive Wallet with Income & Expense Cashflow across Monthly, Quarterly, and Yearly timeframes.",
       "notes": [
         "Executive Wallet with Income & Expense Cashflow across Monthly, Quarterly, and Yearly timeframes.",
@@ -23,8 +23,8 @@
           "platform": "linux",
           "fileName": "aureus-v1.1.0-linux-x64.zip",
           "downloadUrl": "https://github.com/yousseflashin/habitflow-release/releases/download/v1.1.0/aureus-v1.1.0-linux-x64.zip",
-          "fileSize": "903.2 KB",
-          "sha256": "9ac52b56f1f6978c2c370b0bdaa53edf7d24b4c4b29e229c2856a2b1f86c6042",
+          "fileSize": "2.1 MB",
+          "sha256": "a8ad99d69f60c41ebccf5ead6c6674e11d7545491ac2792042e1c11e31c55f1c",
           "installHint": "Extract the zip, then run ./install.sh (fetches Electron if needed), then ./habitflow.sh."
         }
       ]
