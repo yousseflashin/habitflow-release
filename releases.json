@@ -24,7 +24,7 @@
           "fileName": "aureus-v1.1.0-linux-x64.zip",
           "downloadUrl": "https://github.com/yousseflashin/habitflow-release/releases/download/v1.1.0/aureus-v1.1.0-linux-x64.zip",
           "fileSize": "2.1 MB",
-          "sha256": "89b461ab58dc40a2e6e6707efb98da09c4e151025fb7d473117d44593f26f64f",
+          "sha256": "4ddae97c1b1f1220d2f748c8aac826284bede6a2c7366b5c3847db779cf1af42",
           "installHint": "Extract the zip, then run ./install.sh (fetches Electron if needed), then ./habitflow.sh."
         }
       ]
