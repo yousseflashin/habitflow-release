@@ -14,7 +14,7 @@ Official public releases, cross-platform packages, and release metadata for **Au
 | Platform | Package File | Size | SHA-256 Checksum | Direct Download |
 | :--- | :--- | :--- | :--- | :--- |
 | **ANDROID** | `aureus-v1.1.0-android.apk` | 4.6 MB | `dccc05db1d48fe00…` | [Download aureus-v1.1.0-android.apk](https://raw.githubusercontent.com/yousseflashin/habitflow-release/main/downloads/aureus-v1.1.0-android.apk) |
-| **LINUX** | `aureus-v1.1.0-linux-x64.zip` | 2.1 MB | `8f14e60530274b5b…` | [Download aureus-v1.1.0-linux-x64.zip](https://raw.githubusercontent.com/yousseflashin/habitflow-release/main/downloads/aureus-v1.1.0-linux-x64.zip) |
+| **LINUX** | `aureus-v1.1.0-linux-x64.zip` | 2.1 MB | `37973e9c860684d7…` | [Download aureus-v1.1.0-linux-x64.zip](https://raw.githubusercontent.com/yousseflashin/habitflow-release/main/downloads/aureus-v1.1.0-linux-x64.zip) |
 
 ---
 

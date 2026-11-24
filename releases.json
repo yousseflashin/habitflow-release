@@ -14,7 +14,7 @@
         {
           "platform": "android",
           "fileName": "aureus-v1.1.0-android.apk",
-          "downloadUrl": "https://raw.githubusercontent.com/yousseflashin/habitflow-release/main/downloads/aureus-v1.1.0-android.apk",
+          "downloadUrl": "https://github.com/yousseflashin/habitflow-release/releases/download/v1.1.0/aureus-v1.1.0-android.apk",
           "fileSize": "4.6 MB",
           "sha256": "dccc05db1d48fe006a02653845e0bbcd6392887a840cbbd30afa58f6b186752d",
           "installHint": "Requires Android 7.0 (API 24)+. Allow 'Install unknown apps' when prompted."
@@ -22,9 +22,9 @@
         {
           "platform": "linux",
           "fileName": "aureus-v1.1.0-linux-x64.zip",
-          "downloadUrl": "https://raw.githubusercontent.com/yousseflashin/habitflow-release/main/downloads/aureus-v1.1.0-linux-x64.zip",
+          "downloadUrl": "https://github.com/yousseflashin/habitflow-release/releases/download/v1.1.0/aureus-v1.1.0-linux-x64.zip",
           "fileSize": "2.1 MB",
-          "sha256": "8f14e60530274b5bdd0bd0daa1d9394d5ebdcee77f1d919694d09fdb6f27bdf4",
+          "sha256": "37973e9c860684d7fed7a1617aa1ab02f8f9d7f56638f2135a3d1d5b75055029",
           "installHint": "Extract the zip, then run ./install.sh (fetches Electron if needed), then ./habitflow.sh."
         }
       ]
