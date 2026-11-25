@@ -2,24 +2,25 @@
 
 Official public releases, cross-platform packages, and release metadata for **Aureus**.
 
-[![Android Download](https://img.shields.io/badge/Download-Android%20APK-brightgreen.svg?style=for-the-badge&logo=android)](https://raw.githubusercontent.com/yousseflashin/habitflow-release/main/downloads/aureus-v1.1.0-android.apk)
-[![Linux Download](https://img.shields.io/badge/Download-Linux%20x64-blue.svg?style=for-the-badge&logo=linux)](https://raw.githubusercontent.com/yousseflashin/habitflow-release/main/downloads/aureus-v1.1.0-linux-x64.zip)
+[![Latest Release](https://img.shields.io/badge/Release-v1.2.0-blue.svg?style=for-the-badge&logo=github)](https://github.com/yousseflashin/habitflow-release/releases)
+[![Android Download](https://img.shields.io/badge/Download-Android%20APK-brightgreen.svg?style=for-the-badge&logo=android)](https://github.com/yousseflashin/habitflow-release/releases/download/v1.2.0/aureus-v1.2.0-android.apk)
+[![Linux Download](https://img.shields.io/badge/Download-Linux%20x64-blue.svg?style=for-the-badge&logo=linux)](https://github.com/yousseflashin/habitflow-release/releases/download/v1.2.0/aureus-v1.2.0-linux-x64.zip)
 
 ---
 
-## 📥 Current Stable Release: v1.1.0 (2026-11-25)
+## 📥 Current Stable Release: v1.2.0 (2026-11-25)
 
 ### Download Packages
 
-| Platform | Package File | Size | SHA-256 Checksum | Direct Download |
+| Platform | Package File | Size | SHA-256 Checksum | Official GitHub Release Download |
 | :--- | :--- | :--- | :--- | :--- |
-| **ANDROID** | `aureus-v1.1.0-android.apk` | 57.9 MB | `0d409082744553cf…` | [Download aureus-v1.1.0-android.apk](https://raw.githubusercontent.com/yousseflashin/habitflow-release/main/downloads/aureus-v1.1.0-android.apk) |
-| **LINUX** | `aureus-v1.1.0-linux-x64.zip` | 2.1 MB | `9f13c412ef9bffb2…` | [Download aureus-v1.1.0-linux-x64.zip](https://raw.githubusercontent.com/yousseflashin/habitflow-release/main/downloads/aureus-v1.1.0-linux-x64.zip) |
+| **ANDROID** | `aureus-v1.2.0-android.apk` | 58.2 MB | `12fa5368e37ac176…` | [Download aureus-v1.2.0-android.apk](https://github.com/yousseflashin/habitflow-release/releases/download/v1.2.0/aureus-v1.2.0-android.apk) |
+| **LINUX** | `aureus-v1.2.0-linux-x64.zip` | 1.8 MB | `ebd82e43188673f0…` | [Download aureus-v1.2.0-linux-x64.zip](https://github.com/yousseflashin/habitflow-release/releases/download/v1.2.0/aureus-v1.2.0-linux-x64.zip) |
 
 ---
 
 ## 📱 Android Installation Guide
-1. Download [**aureus-v1.1.0-android.apk**](https://raw.githubusercontent.com/yousseflashin/habitflow-release/main/downloads/aureus-v1.1.0-android.apk).
+1. Download [**aureus-v1.2.0-android.apk**](https://github.com/yousseflashin/habitflow-release/releases/download/v1.2.0/aureus-v1.2.0-android.apk).
 2. Open the downloaded file on your Android device.
 3. If prompted with *"For your security, your phone is not allowed to install unknown apps from this source"*, tap **Settings** and enable **"Allow from this source"**.
 4. Tap **Install** and launch Aureus.
@@ -27,11 +28,11 @@ Official public releases, cross-platform packages, and release metadata for **Au
 ---
 
 ## 💻 Linux Desktop Installation Guide (Fedora, Ubuntu, Debian, Arch)
-1. Download [**aureus-v1.1.0-linux-x64.zip**](https://raw.githubusercontent.com/yousseflashin/habitflow-release/main/downloads/aureus-v1.1.0-linux-x64.zip).
+1. Download [**aureus-v1.2.0-linux-x64.zip**](https://github.com/yousseflashin/habitflow-release/releases/download/v1.2.0/aureus-v1.2.0-linux-x64.zip).
 2. Extract the archive:
    ```bash
-   unzip aureus-v1.1.0-linux-x64.zip -d aureus-v1.1.0
-   cd aureus-v1.1.0
+   unzip aureus-v1.2.0-linux-x64.zip -d aureus-v1.2.0
+   cd aureus-v1.2.0
    ```
 3. Run the installer (sets up Electron and production environment):
    ```bash
@@ -44,10 +45,10 @@ Official public releases, cross-platform packages, and release metadata for **Au
 
 ---
 
-## 📋 Release Notes for v1.1.0
+## 📋 Release Notes for v1.2.0
 - Executive Wallet with Income & Expense Cashflow across Monthly, Quarterly, and Yearly timeframes.
 - Google Calendar style multi-view master calendar (Month, Week, Day, Schedule).
-- Local-first CRDT synchronization and cross-platform notification engine.
+- Real-time bi-directional synchronization and cross-platform notification engine.
 
 ---
 

@@ -2,6 +2,34 @@
   "appName": "Aureus — Whole-Life Manager",
   "releases": [
     {
+      "version": "1.2.0",
+      "date": "2026-11-25",
+      "highlight": "Executive Wallet with Income & Expense Cashflow across Monthly, Quarterly, and Yearly timeframes.",
+      "notes": [
+        "Executive Wallet with Income & Expense Cashflow across Monthly, Quarterly, and Yearly timeframes.",
+        "Google Calendar style multi-view master calendar (Month, Week, Day, Schedule).",
+        "Real-time bi-directional synchronization and cross-platform notification engine."
+      ],
+      "downloads": [
+        {
+          "platform": "android",
+          "fileName": "aureus-v1.2.0-android.apk",
+          "downloadUrl": "https://github.com/yousseflashin/habitflow-release/releases/download/v1.2.0/aureus-v1.2.0-android.apk",
+          "fileSize": "58.2 MB",
+          "sha256": "12fa5368e37ac176171dbd7bc817162225e55a3ea996746aa5ac30e7d283b6b1",
+          "installHint": "Requires Android 7.0 (API 24)+. Allow 'Install unknown apps' when prompted."
+        },
+        {
+          "platform": "linux",
+          "fileName": "aureus-v1.2.0-linux-x64.zip",
+          "downloadUrl": "https://github.com/yousseflashin/habitflow-release/releases/download/v1.2.0/aureus-v1.2.0-linux-x64.zip",
+          "fileSize": "1.8 MB",
+          "sha256": "ebd82e43188673f09069c381b36d916c6791e0272303408a5f755992408be06c",
+          "installHint": "Extract the zip, then run ./install.sh (fetches Electron if needed), then ./habitflow.sh."
+        }
+      ]
+    },
+    {
       "version": "1.1.0",
       "date": "2026-11-25",
       "highlight": "Executive Wallet with Income & Expense Cashflow across Monthly, Quarterly, and Yearly timeframes.",
