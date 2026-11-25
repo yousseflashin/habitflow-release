@@ -3,7 +3,7 @@
   "releases": [
     {
       "version": "1.1.0",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "highlight": "Executive Wallet with Income & Expense Cashflow across Monthly, Quarterly, and Yearly timeframes.",
       "notes": [
         "Executive Wallet with Income & Expense Cashflow across Monthly, Quarterly, and Yearly timeframes.",
@@ -15,8 +15,8 @@
           "platform": "android",
           "fileName": "aureus-v1.1.0-android.apk",
           "downloadUrl": "https://github.com/yousseflashin/habitflow-release/releases/download/v1.1.0/aureus-v1.1.0-android.apk",
-          "fileSize": "4.6 MB",
-          "sha256": "dccc05db1d48fe006a02653845e0bbcd6392887a840cbbd30afa58f6b186752d",
+          "fileSize": "57.9 MB",
+          "sha256": "0d409082744553cf8770d88e89fc00737c3b69b9b0bb54105e58b2a73a5d5799",
           "installHint": "Requires Android 7.0 (API 24)+. Allow 'Install unknown apps' when prompted."
         },
         {
@@ -24,7 +24,7 @@
           "fileName": "aureus-v1.1.0-linux-x64.zip",
           "downloadUrl": "https://github.com/yousseflashin/habitflow-release/releases/download/v1.1.0/aureus-v1.1.0-linux-x64.zip",
           "fileSize": "2.1 MB",
-          "sha256": "37973e9c860684d7fed7a1617aa1ab02f8f9d7f56638f2135a3d1d5b75055029",
+          "sha256": "9f13c412ef9bffb2b6a3ac9019003c74fdd688dfb2e006b1a7667a5a449e8948",
           "installHint": "Extract the zip, then run ./install.sh (fetches Electron if needed), then ./habitflow.sh."
         }
       ]
